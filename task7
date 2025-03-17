@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.one{background:lightblue;height:50px;}
+.two{background:beige;height:200px;}
+.three{background:gray;height:30px;font-weight:bold;}
+</style>
+</head>
+<body>
+<div class="one">Div one</div>
+<div class="two">Div two</div>
+<div class="three">Div three</div>
+</body>
+</html>
