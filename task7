@@ -3,7 +3,7 @@
 <head>
 <style>
 .one{background:lightblue;height:50px;}
-.two{background:beige;height:200px;}
+.two{background:white;height:200px;}
 .three{background:gray;height:30px;font-weight:bold;}
 </style>
 </head>
