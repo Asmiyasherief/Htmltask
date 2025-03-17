@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Html Task-3</title>
+</head>
+<body>
+<button>Build.myweb</button>
+<br><br>
+<a href="https://www.youtube.com/"
+target="_blank">youtube</a>
+</body>
+</html>
